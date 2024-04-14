@@ -14,7 +14,7 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 - [Awesome Multiplayer Games](https://github.com/herrherrmann/awesome-multiplayer-games) - Awesome games for local multiplayer sessions or LAN parties.
 <br>`by herrherrmann` `Markdown`
 
-- [Awesome Linux Software](https://github.com/sonic2kk/Awesome-Linux-Software) - A list of awesome Linux software. ([Website](https://luong-komorebi.github.io/Awesome-Linux-Software/))
+- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux software. ([Website](https://luong-komorebi.github.io/Awesome-Linux-Software/))
 <br>`by luong-komorebi` `Markdown`
 
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers. ([Website](https://awesome-selfhosted.net/))
