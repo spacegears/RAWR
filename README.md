@@ -153,17 +153,26 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 - [CS2MapCompilerCPU](https://github.com/miifanboy/CS2MapCompilerCPU) - Compile CS2 maps with your CPU if you don't have a GPU with ray tracing support.
 <br>`by miifanboy` `C#` `MIT`
 
+- [Crowbar](https://github.com/ZeqMacaw/Crowbar) - GoldSource and Source Engine Modding Tool. ([Website](https://steamcommunity.com/groups/CrowbarTool))
+<br>`by ZeqMacaw` `VB .NET` `CC BY-SA 3.0`
+
 - [Easy-VTF-Converter](https://github.com/Mix-Anik/Easy-VTF-Converter) - Software for converting VTF images into different versions.
 <br>`by Mix-Anik` `Python` `MIT`
 
 - [HammerAddons](https://github.com/TeamSpen210/HammerAddons) - Useful tweaks and content for Source Engine Games.
 <br>`by TeamSpen210` `Python`
 
+- [Nem's Tools](https://github.com/nemstools/nemstools.github.io) - Unofficial mirror of Nem's Tools website. ([Website](https://nemstools.github.io/))
+<br>`by nemstools` `HTML`
+
 - [Source 2 Viewer](https://github.com/ValveResourceFormat/ValveResourceFormat) - Valve's Source 2 resource file format parser, decompiler, and exporter. ([Website](https://valveresourceformat.github.io/))
-<br> `by ValveResourceFormat` `C#` `MIT`
+<br>`by ValveResourceFormat` `C#` `MIT`
 
 - [VMT Editor](https://github.com/Dima-369/VMT-Editor) - Visual editor for VMT files used in Source Engine. ([Website](https://dima-369.github.io/VMT-Editor/))
-<br> `by Dima-369` `C++` `GPL-3.0`
+<br>`by Dima-369` `C++` `GPL-3.0`
+
+- [VPKEdit](https://github.com/craftablescience/VPKEdit) - A library and CLI/GUI tool to create, read, and write several pack file formats.
+<br>`by craftablescience` `C++` `MIT`
 
 
 ### Other
