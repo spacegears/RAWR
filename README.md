@@ -144,6 +144,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 
 ### Modding / Mapping / Texturing / Hammer Editor
 
+- [BSPEntSpy](https://github.com/jakgor471/BSPEntSpy) - Enhanced Entity Lump editor for Source games.
+<br>`by jakgor471` `Java`
+
 - [bspsrc](https://github.com/ata4/bspsrc) - A Source engine map decompiler.
 <br>`by ata4` `Java`
 
