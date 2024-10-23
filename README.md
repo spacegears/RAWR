@@ -26,7 +26,7 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 - [Crestic](https://github.com/nils-werner/crestic) - Configurable Restic Wrapper. ([Website](https://nils-werner.github.io/crestic/))
 <br>`by nils-werner` `Python` `MIT`
 
-- [Rclone](https://github.com/rclone/rclone/) - "rsync for cloud storage". ([Website](https://rclone.org/))
+- [Rclone](https://github.com/rclone/rclone/) - Rsync for cloud storage. ([Website](https://rclone.org/))
 <br>`by rclone` `Go` `MIT`
 
 - [RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
@@ -45,10 +45,9 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 <br>`by SelfhostedPro` `Vue` `JavaScript` `MIT`
 
 
-
 ## Gaming
 
-### Call of Duty (CoD / CoDUO)
+### Call of Duty (vCoD / CoDUO)
 
 - [call-of-duty-classic-docker](https://github.com/empmdk/call-of-duty-classic-docker) - Docker Image for a Call of Duty (2003) or Call of Duty - United Offensive Gameserver.
 <br>`by empmdk` `Shell` `Docker` `MIT`
@@ -75,7 +74,7 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 <br>`by henrikssonkevin`
 
 
-### Game Servers
+### Game Servers - Control Panels
 
 - [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. ([Website](https://linuxgsm.com/))
 <br>`by GameServerManagers` `Shell` `MIT`
@@ -92,34 +91,19 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 
 ### Game Servers - Docker
 
-_Additional resources: [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers)_
+_Additional resources: [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers)
 
 - [docker-sourceservers](https://github.com/startersclan/docker-sourceservers) - Source / GoldSource dedicated server images built through use of steamcmd.
 <br>`by startersclan` `PowerShell` `Shell` `Docker` `Apache-2.0`
 
-- [hldm-docker](https://github.com/spezifanta/hldm-docker) - Half-Life Deathmatch Server as Docker Image.
-<br>`by spezifanta` `Docker` `MIT`
-
 - [gameservers-docker](https://github.com/OpenSourceLAN/gameservers-docker) - A bunch of game servers, dockerised. ([Website](https://opensourcelan.com/))
 <br>`by OpenSourceLAN` `Shell` `Docker` `GPL-1.0`
 
+- [hldm-docker](https://github.com/spezifanta/hldm-docker) - Half-Life Deathmatch Server as Docker Image.
+<br>`by spezifanta` `Docker` `MIT`
+
 - [steamcmd](https://github.com/thetredev/steamcmd) - Sane SteamCMD Docker images.
 <br>`by thetredev` `Shell` `Docker` `MIT`
-
-
-### GoldSrc
-
-- [bspview](https://github.com/sbuggay/bspview) - Explore Quake/GoldSrc maps in your browser. ([Website](https://sbuggay.github.io/bspview/))
-<br>`by sbuggay` `TypeScript`
-
-- [hl](https://github.com/Pixelsuft/hl) - Half-Life Browser Port. ([Website](https://pixelsuft.github.io/hl/))
-<br>`by Pixelsuft` `JavaScript` `Python`
-
-- [hlviewer.js](https://github.com/skyrim/hlviewer.js) - Half-Life in WebGL. ([Website](https://skyrim.github.io/hlviewer.js/))
-<br>`by skyrim` `TypeScript` `MIT`
-
-- [web-hlmv](https://github.com/danakt/web-hlmv) - WebGL implementation of the Half-Life Model Viewer. ([Website](https://danakt.com/web-hlmv/))
-<br>`by danakt` `TypeScript` `MIT`
 
 
 ### Source - Mods
@@ -132,23 +116,32 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 
 ### GoldSrc / Source - Web tools
 
+- [hl](https://github.com/Pixelsuft/hl) - Half-Life Browser Port. ([Website](https://pixelsuft.github.io/hl/))
+<br>`by Pixelsuft` `JavaScript` `Python`
+
 - [HLDS API](https://github.com/spezifanta/hlds-api) - Simple REST API to query HLDS.
 <br>`by spezifanta` `Python` `Docker`
 
 - [HLSources](https://github.com/HLSources/HLSources.github.io) - List of source code repositories, related to Half-Life and GoldSrc.
 <br>`by HLSources` `HTML`
 
+- [hlviewer.js](https://github.com/skyrim/hlviewer.js) - Half-Life in WebGL. ([Website](https://skyrim.github.io/hlviewer.js/))
+<br>`by skyrim` `TypeScript` `MIT`
+
 - [SourceWatch](https://github.com/spezifanta/SourceWatch) - Python implementation of Valve's GoldSrc and Source server query protocol.
 <br>`by spezifanta` `Python` `MIT`
 
 
-### Modding / Mapping / Texturing / Hammer Editor
+### Modding / Mapping / Modeling / Texturing / Hammer Editor
 
 - [BSPEntSpy](https://github.com/jakgor471/BSPEntSpy) - Enhanced Entity Lump editor for Source games.
 <br>`by jakgor471` `Java`
 
 - [bspsrc](https://github.com/ata4/bspsrc) - A Source engine map decompiler.
 <br>`by ata4` `Java`
+
+- [bspview](https://github.com/sbuggay/bspview) - Explore Quake/GoldSrc maps in your browser. ([Website](https://sbuggay.github.io/bspview/))
+<br>`by sbuggay` `TypeScript`
 
 - [CS2MapCompilerCPU](https://github.com/miifanboy/CS2MapCompilerCPU) - Compile CS2 maps with your CPU if you don't have a GPU with ray tracing support.
 <br>`by miifanboy` `C#` `MIT`
@@ -165,14 +158,23 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 - [Nem's Tools](https://github.com/nemstools/nemstools.github.io) - Unofficial mirror of Nem's Tools website. ([Website](https://nemstools.github.io/))
 <br>`by nemstools` `HTML`
 
+- [PBR-2-Source](https://github.com/koerismo/PBR-2-Source) - A Python-powered GUI for converting PBR materials into Source Engine-compatible materials. 
+<br>`by koerismo` `Python` `GPL-3.0`
+
 - [Source 2 Viewer](https://github.com/ValveResourceFormat/ValveResourceFormat) - Valve's Source 2 resource file format parser, decompiler, and exporter. ([Website](https://valveresourceformat.github.io/))
 <br>`by ValveResourceFormat` `C#` `MIT`
+
+- [vmf-files_webgl](https://github.com/jakgor471/vmf-files_webgl) - WebGL viewer for VMF Files (Hammer Editor maps). ([Website](https://jakgor471.github.io/vmf-files_webgl/))
+<br>`by jakgor471` `JavaScript` `MIT`
 
 - [VMT Editor](https://github.com/Dima-369/VMT-Editor) - Visual editor for VMT files used in Source Engine. ([Website](https://dima-369.github.io/VMT-Editor/))
 <br>`by Dima-369` `C++` `GPL-3.0`
 
 - [VPKEdit](https://github.com/craftablescience/VPKEdit) - A library and CLI/GUI tool to create, read, and write several pack file formats.
 <br>`by craftablescience` `C++` `MIT`
+
+- [web-hlmv](https://github.com/danakt/web-hlmv) - WebGL implementation of the Half-Life Model Viewer. ([Website](https://danakt.com/web-hlmv/))
+<br>`by danakt` `TypeScript` `MIT`
 
 
 ### Other
@@ -198,13 +200,10 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 - [dehydrated](https://github.com/dehydrated-io/dehydrated) - Letsencrypt/acme client implemented as a shell-script. ([Website](https://dehydrated.io/))
 <br>`by dehydrated-io` `Shell` `MIT`
 
-- [Froxlor](https://github.com/Froxlor/Froxlor) - The server administration software for your needs. ([Website](http://froxlor.org/))
-<br>`by Froxlor` `PHP` `GPL-2.0`
-
 - [nala](https://github.com/volitank/nala) - Nala is a front-end for libapt-pkg.
 <br>`by volitank` `Python` `GPL-3.0`
 
-- [NginxProxyManager ](nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface. ([Website](https://nginxproxymanager.com/))
+- [NginxProxyManager](nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface. ([Website](https://nginxproxymanager.com/))
 <br>`by NginxProxyManager` `JavaScript` `MIT`
 
 - [server-setup](https://github.com/xarvex/server-setup) - Setup scripts for configuring settings and programs on a server.
@@ -222,15 +221,14 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 
 ## Other
 
-### CNC
-
-- [Webgcode](https://github.com/nraynaud/webgcode) - Online G-Code simulator, controller code for STM32F4-Discovery and Google Chrome extension to send the code to it. ([Website](http://nraynaud.github.io/webgcode/))
-<br>`by nraynaud` `JavaScript` `MIT`
-
-### Desktop Apps
+### Desktop Applications
 
 - [ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown. ([Website](https://invent.kde.org/office/ghostwriter/))
 <br>`by KDE` `C++` `Apache-3.0`
+
+- [LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) - LinuxDir2HTML is a small program to help create an offline manifest of your files in an easily navigable HTML format.
+<br>`by homeisfar` `HTML` `Python` `GPL-2.0 + GPL-3.0` 
+
 
 ### Torrent Trackers
 
@@ -246,13 +244,11 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 - [TorrentBits](https://github.com/Hect0rius/TorrentBits) - The Original Tracker with mysql updates and security fixes for 2019. 
 <br>`by Hect0rius` `PHP` `GPL-2.0`
 
-### Webapps
+
+### Web Applications
 
 - [ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization.
 <br>`by aceberg` `Go` `Docker` `MIT`
-
-- [filebrowser](https://github.com/filebrowser/filebrowser) - Web File Browser. ([Website](https://filebrowser.org/))
-<br>`by filebrowser` `Go` `Vue` `Apache-2.0`
 
 - [filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager. ([Website](https://filegator.io/))
 <br>`by filegator` `PHP` `JavaScript` `Vue` `Docker` `MIT`
@@ -269,17 +265,11 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 - [OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface. ([Website](https://olivetin.app/))
 <br>`by OliveTin` `Go` `Javacript` `Shell` `Docker` `AGPL-3.0`
 
-- [planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. ([Website](https://planka.app/))
-<br>`by plankanban` `JavaScript` `Docker` `AGPL-3.0`
-
 - [tormater-forum](https://github.com/tormater/tormater-forum) - Lightweight, easy-to-use, free forum software built on PHP and MySQL. ([Website](http://forum.tormater.com/))
 <br>`by tormater` `PHP` `AGPL-3.0`
 
-- [umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. ([Website](https://umami.is/))
-<br>`by umami-software` `TypeScript` `MIT`
-
-- [wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-<br>`by wg-easy` `JavaScript` `Docker`
+- [Webgcode](https://github.com/nraynaud/webgcode) - Online G-Code simulator, controller code for STM32F4-Discovery and Google Chrome extension to send the code to it. ([Website](http://nraynaud.github.io/webgcode/))
+<br>`by nraynaud` `JavaScript` `MIT`
 
 - [yarr](https://github.com/nkanaev/yarr) - Yet Another RSS Reader.
 <br>`by nkanaev` `Go` `JavaScript` `MIT`
