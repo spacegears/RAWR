@@ -20,6 +20,9 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers. ([Website](https://awesome-selfhosted.net/))
 <br>`by awesome-selfhosted` `Markdown` `CC-BY-SA-3.0`
 
+- [Classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots.
+<br>`by dbohdan` `Markdown`
+
 
 ## Backups
 
@@ -116,6 +119,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 
 ### GoldSrc / Source - Web tools
 
+- [gb-api-v11](https://github.com/s0nought/gb-api-v11) - The semi-official GameBanana API v11 documentation.
+<br>`by s0nought` `Postman` `CC0-1.0`
+
 - [hl](https://github.com/Pixelsuft/hl) - Half-Life Browser Port. ([Website](https://pixelsuft.github.io/hl/))
 <br>`by Pixelsuft` `JavaScript` `Python`
 
@@ -130,6 +136,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 
 - [SourceWatch](https://github.com/spezifanta/SourceWatch) - Python implementation of Valve's GoldSrc and Source server query protocol.
 <br>`by spezifanta` `Python` `MIT`
+
+- [workshop_collection_ids](https://github.com/SivanC/workshop_collection_ids) - A small Python script that uses the Steam Web API to retrieve the IDs of workshop items in a collection and prints them in a comma-separated or formatted list to stdout, or optionally a file.
+<br>`by SivanC` `Python` `GPL-3.0`
 
 
 ### Modding / Mapping / Modeling / Texturing / Hammer Editor
@@ -179,14 +188,29 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 
 ### Other
 
+- [counterstrike-betas](https://github.com/Ch0wW/counterstrike-betas) - A repository containing most of the known versions of Counter-Strike pre-1.6, already extracted and ready for Windows & Linux.
+<br>`by Ch0wW` 
+
 - [goldsrc-theme](https://github.com/Maziko66/goldsrc-theme) - VSCode theme inspired by Valve's design of UI.
 <br>`by Maziko66` `JSON`
 
 - [noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels. ([Website](https://noclip.website/))
 <br>`by magcius` `TypeScript` `MIT`
 
+- [oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems.
+<br>`by woelper` `Rust` `MIT`
+
+- [SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas.
+<br>`by CookiePLMonster `C++` `MIT`
+
+- [Simple-Quake-Launcher-2](https://github.com/m-x-d/Simple-Quake-Launcher-2) - A simple map/mod/demo launcher for Quake, Quake 2, Hexen 2 and Half-Life.
+<br>`by m-x-d` `C#` `MIT`
+
 - [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs.
 <br>`by sonic2kk` `Shell` `GPL-3.0`
+
+- [Ultimate-Counter-Strike-Movie-Collection](https://github.com/axtgr/Ultimate-Counter-Strike-Movie-Collection) - World's largest collection of Counter-Strike movies.
+<br>`by axtgr`
 
 - [WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs. ([Website](https://thirteenag.github.io/wfp))
 <br>`by ThirteenAG` `C` `C++` `MIT`
@@ -223,6 +247,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 
 ### Desktop Applications
 
+- [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software, supporting JPG, PNG, WebP and TIFF formats. ([Website](https://saerasoft.com/caesium/))
+<br>`by Lymphatus` `C++` `GPL-3.0`
+
 - [ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown. ([Website](https://invent.kde.org/office/ghostwriter/))
 <br>`by KDE` `C++` `Apache-3.0`
 
@@ -247,6 +274,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 
 ### Web Applications
 
+- [beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+<br>`by henrygd` `Go` `TypeScript` `Docker` `MIT`
+
 - [ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization.
 <br>`by aceberg` `Go` `Docker` `MIT`
 
@@ -258,6 +288,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 
 - [home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery. ([Website](https://home-gallery.org/))
 <br>`by xemle` `JavaScript` `TypeScript` `MIT`
+
+- [investcalc](https://github.com/investcalc/investcalc.github.io) - Investment Frequency Calculator. ([Website](https://investcalc.github.io/))
+<br>`by investcalc` `HTML` `JavaScript`
 
 - [miniboard](https://github.com/aceberg/miniboard) - Lightweight dashboard with tabs, uptime monitoring and notifications.
 <br>`by aceberg` `Go` `Docker` `MIT`
