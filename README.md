@@ -201,7 +201,7 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSou
 <br>`by woelper` `Rust` `MIT`
 
 - [SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas.
-<br>`by CookiePLMonster `C++` `MIT`
+<br>`by CookiePLMonster` `C++` `MIT`
 
 - [Simple-Quake-Launcher-2](https://github.com/m-x-d/Simple-Quake-Launcher-2) - A simple map/mod/demo launcher for Quake, Quake 2, Hexen 2 and Half-Life.
 <br>`by m-x-d` `C#` `MIT`
