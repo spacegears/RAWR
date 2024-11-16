@@ -94,7 +94,7 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 
 ### Game Servers - Docker
 
-_Additional resources: [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers)
+_Additional resources: [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers)_
 
 - [docker-sourceservers](https://github.com/startersclan/docker-sourceservers) - Source / GoldSource dedicated server images built through use of steamcmd.
 <br>`by startersclan` `PowerShell` `Shell` `Docker` `Apache-2.0`
