@@ -170,6 +170,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 - [Nem's Tools](https://github.com/nemstools/nemstools.github.io) - Unofficial mirror of Nem's Tools website. ([Website](https://nemstools.github.io/))
 <br>`by nemstools` `HTML`
 
+- [newbspguy](https://github.com/UnrealKaraulov/newbspguy) - Goldsrc map viewer/editor without decompiling. Also can view .MDL models.
+<br>`by UnrealKaraulov` `C++` `C` `Unlicense`
+
 - [PBR-2-Source](https://github.com/koerismo/PBR-2-Source) - A Python-powered GUI for converting PBR materials into Source Engine-compatible materials. 
 <br>`by koerismo` `Python` `GPL-3.0`
 
