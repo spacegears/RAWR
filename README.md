@@ -111,13 +111,16 @@ _Additional resources: [LacledesLAN](https://github.com/LacledesLAN/README.1ST/t
 
 ### Source - Mods
 
-_Additional resources: [JaredBallou](https://github.com/jaredballou), [SourceSounds](https://github.com/sourcesounds), [SRCDSLab](https://github.com/srcdslab), [WeBmapmaker](https://github.com/WeBmapmaker)_
+_Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceSDK](https://github.com/pySourceSDK), [SourceSounds](https://github.com/sourcesounds), [SRCDSLab](https://github.com/srcdslab), [WeBmapmaker](https://github.com/WeBmapmaker)_
 
 - [SourceCoop](https://github.com/ampreeT/SourceCoop) - Black Mesa cooperative plugin for SourceMod.
 <br>`by ampreeT` `SourcePawn` `Pawn`
 
 
 ### GoldSrc / Source - Web tools
+
+- [GameServerBrowser](https://github.com/BerntA/GameServerBrowser) - A simple Blazor powered game server browser. ([Website](https://browser.reperio-studios.eu/))
+<br>`by BerntA` `C#` `Python` `GPL-3.0`
 
 - [gb-api-v11](https://github.com/s0nought/gb-api-v11) - The semi-official GameBanana API v11 documentation.
 <br>`by s0nought` `Postman` `CC0-1.0`
