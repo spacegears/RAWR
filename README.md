@@ -195,7 +195,10 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 ### Other
 
 - [counterstrike-betas](https://github.com/Ch0wW/counterstrike-betas) - A repository containing most of the known versions of Counter-Strike pre-1.6, already extracted and ready for Windows & Linux.
-<br>`by Ch0wW` 
+<br>`by Ch0wW`
+
+- [freecs](https://github.com/eukara/freecs) - Clean-room Counter-Strike 1.5 in QuakeC, using Nuclide SDK. Previously known as OpenCS! (2016) ([Website](https://www.frag-net.com/projects.html))
+<br>`by eukara` `C` `C++` `ISC`
 
 - [goldsrc-theme](https://github.com/Maziko66/goldsrc-theme) - VSCode theme inspired by Valve's design of UI.
 <br>`by Maziko66` `JSON`
