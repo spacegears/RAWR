@@ -52,7 +52,7 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 
 ### Call of Duty (vCoD / CoDUO)
 
-_Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](https://github.com/patriksh), [PrawyCoD1](https://github.com/PrawyCoD1), [xtnded](https://github.com/xtnded)
+_Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](https://github.com/patriksh), [PrawyCoD1](https://github.com/PrawyCoD1), [xtnded](https://github.com/xtnded)_
 
 - [call-of-duty-classic-docker](https://github.com/empmdk/call-of-duty-classic-docker) - Docker Image for a Call of Duty (2003) or Call of Duty - United Offensive Gameserver.
 <br>`by empmdk` `Shell` `Docker` `MIT`
