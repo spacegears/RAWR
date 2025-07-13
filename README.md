@@ -52,6 +52,8 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 
 ### Call of Duty (vCoD / CoDUO)
 
+_Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](https://github.com/patriksh), [PrawyCoD1](https://github.com/PrawyCoD1), [xtnded](https://github.com/xtnded)
+
 - [call-of-duty-classic-docker](https://github.com/empmdk/call-of-duty-classic-docker) - Docker Image for a Call of Duty (2003) or Call of Duty - United Offensive Gameserver.
 <br>`by empmdk` `Shell` `Docker` `MIT`
 
@@ -111,7 +113,7 @@ _Additional resources: [LacledesLAN](https://github.com/LacledesLAN/README.1ST/t
 
 ### Source - Mods
 
-_Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceSDK](https://github.com/pySourceSDK), [SourceSounds](https://github.com/sourcesounds), [SRCDSLab](https://github.com/srcdslab), [WeBmapmaker](https://github.com/WeBmapmaker)_
+_Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceSDK](https://github.com/pySourceSDK), [SourceSounds](https://github.com/sourcesounds), [SRCDSLab](https://github.com/srcdslab), [WC3Mods](https://github.com/wc3mods) [WeBmapmaker](https://github.com/WeBmapmaker)
 
 - [SourceCoop](https://github.com/ampreeT/SourceCoop) - Black Mesa cooperative plugin for SourceMod.
 <br>`by ampreeT` `SourcePawn` `Pawn`
@@ -144,7 +146,7 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 <br>`by SivanC` `Python` `GPL-3.0`
 
 
-### Modding / Mapping / Modeling / Texturing / Hammer Editor
+### Mapping / Modding /  Modeling / Texturing / Tools / Hammer Editor
 
 - [BSPEntSpy](https://github.com/jakgor471/BSPEntSpy) - Enhanced Entity Lump editor for Source games.
 <br>`by jakgor471` `Java`
@@ -203,7 +205,10 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 - [goldsrc-theme](https://github.com/Maziko66/goldsrc-theme) - VSCode theme inspired by Valve's design of UI.
 <br>`by Maziko66` `JSON`
 
-- [noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels. ([Website](https://noclip.website/))
+- [swine-dhde](https://github.com/hdbeefup/swine-dhde) - S.W.I.N.E. 2001 HDBEEFUP port to HD REMASTER. ([Website](https://hdbeefup.github.io))
+<br>`by hdbeefup` `C++` `GPL-3.0`
+
+- [noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels. ([Website](https://noclip.website))
 <br>`by magcius` `TypeScript` `MIT`
 
 - [oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems.
