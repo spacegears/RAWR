@@ -113,7 +113,7 @@ _Additional resources: [LacledesLAN](https://github.com/LacledesLAN/README.1ST/t
 
 ### Source - Mods
 
-_Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceSDK](https://github.com/pySourceSDK), [SourceSounds](https://github.com/sourcesounds), [SRCDSLab](https://github.com/srcdslab), [WC3Mods](https://github.com/wc3mods) [WeBmapmaker](https://github.com/WeBmapmaker)
+_Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceSDK](https://github.com/pySourceSDK), [SourceSounds](https://github.com/sourcesounds), [SRCDSLab](https://github.com/srcdslab), [WC3Mods](https://github.com/wc3mods) [WeBmapmaker](https://github.com/WeBmapmaker)_
 
 - [SourceCoop](https://github.com/ampreeT/SourceCoop) - Black Mesa cooperative plugin for SourceMod.
 <br>`by ampreeT` `SourcePawn` `Pawn`
