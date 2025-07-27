@@ -275,7 +275,10 @@ https://github.com/Olsro/reddit-ipod-guides
 <br>`by KDE` `C++` `Apache-3.0`
 
 - [LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) - LinuxDir2HTML is a small program to help create an offline manifest of your files in an easily navigable HTML format.
-<br>`by homeisfar` `HTML` `Python` `GPL-2.0 + GPL-3.0` 
+<br>`by homeisfar` `HTML` `Python` `GPL-2.0 + GPL-3.0`
+
+- [rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. ([Website](https://rustdesk.com/))
+<br>`by rustdesk` `Rust` `AGPL-3.0`
 
 
 ### Torrent Trackers
