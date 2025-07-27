@@ -96,7 +96,7 @@ _Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](h
 
 ### Game Servers - Docker
 
-_Additional resources: [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers)_
+_Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers), [rehlds](https://github.com/rehlds)_
 
 - [docker-sourceservers](https://github.com/startersclan/docker-sourceservers) - Source / GoldSource dedicated server images built through use of steamcmd.
 <br>`by startersclan` `PowerShell` `Shell` `Docker` `Apache-2.0`
@@ -104,8 +104,11 @@ _Additional resources: [LacledesLAN](https://github.com/LacledesLAN/README.1ST/t
 - [gameservers-docker](https://github.com/OpenSourceLAN/gameservers-docker) - A bunch of game servers, dockerised. ([Website](https://opensourcelan.com/))
 <br>`by OpenSourceLAN` `Shell` `Docker` `GPL-1.0`
 
-- [hldm-docker](https://github.com/spezifanta/hldm-docker) - Half-Life Deathmatch Server as Docker Image.
+- [hldm-docker](https://github.com/spezifanta/hldm-docker) - Half-Life Deathmatch Server as Docker Image. ([Website](https://spezifanta.github.io/hldm-docker/))
 <br>`by spezifanta` `Docker` `MIT`
+
+- [hlds-docker](https://github.com/JamesIves/hlds-docker) - Half-Life Dedicated Server powered by Docker, supporting all the classic GoldSrc Half-Life games and mods-including CS 1.6, TFC, DoD and more.
+<br>`by JamesIves` `Docker` `MIT`
 
 - [steamcmd](https://github.com/thetredev/steamcmd) - Sane SteamCMD Docker images.
 <br>`by thetredev` `Shell` `Docker` `MIT`
