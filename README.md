@@ -148,6 +148,8 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 
 ### Mapping / Modding /  Modeling / Texturing / Tools / Hammer Editor
 
+_Additional resources: [airhick](https://github.com/airhick)_
+
 - [BSPEntSpy](https://github.com/jakgor471/BSPEntSpy) - Enhanced Entity Lump editor for Source games.
 <br>`by jakgor471` `Java`
 
@@ -214,6 +216,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 - [oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems.
 <br>`by woelper` `Rust` `MIT`
 
+- [reddit-ipod-guides](https://github.com/Olsro/reddit-ipod-guides) - All my iPod guides posted on Reddit, archived here in an open format: the markdown.
+<br>`by Olsro` `MIT`
+
 - [SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas.
 <br>`by CookiePLMonster` `C++` `MIT`
 
@@ -229,6 +234,8 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 - [WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs. ([Website](https://thirteenag.github.io/wfp))
 <br>`by ThirteenAG` `C` `C++` `MIT`
 
+
+https://github.com/Olsro/reddit-ipod-guides
 
 ### Server Management :penguin:
 
@@ -317,6 +324,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 
 - [Webgcode](https://github.com/nraynaud/webgcode) - Online G-Code simulator, controller code for STM32F4-Discovery and Google Chrome extension to send the code to it. ([Website](http://nraynaud.github.io/webgcode/))
 <br>`by nraynaud` `JavaScript` `MIT`
+
+- [win32.run](https://github.com/ducbao414/win32.run) - Windows XP in the browser, with a File System, programs, XP-style File Picker and Saver dialogs, 3rd-party program, etc. ([Website](https://win32.run/))
+<br>`by ducbao414` `JavaScript` `MIT`
 
 - [yarr](https://github.com/nkanaev/yarr) - Yet Another RSS Reader.
 <br>`by nkanaev` `Go` `JavaScript` `MIT`
