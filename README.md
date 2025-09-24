@@ -116,7 +116,7 @@ _Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](ht
 
 ### Source - Mods
 
-_Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceSDK](https://github.com/pySourceSDK), [SourceSounds](https://github.com/sourcesounds), [SRCDSLab](https://github.com/srcdslab), [WC3Mods](https://github.com/wc3mods) [WeBmapmaker](https://github.com/WeBmapmaker)_
+_Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceSDK](https://github.com/pySourceSDK), [SourceSounds](https://github.com/sourcesounds), [SRCDSLab](https://github.com/srcdslab), [WC3Mods](https://github.com/wc3mods), [WeBmapmaker](https://github.com/WeBmapmaker)_
 
 - [SourceCoop](https://github.com/ampreeT/SourceCoop) - Black Mesa cooperative plugin for SourceMod.
 <br>`by ampreeT` `SourcePawn` `Pawn`
@@ -151,7 +151,7 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 
 ### Mapping / Modding /  Modeling / Texturing / Tools / Hammer Editor
 
-_Additional resources: [airhick](https://github.com/airhick)_
+_Additional resources: [airhick](https://github.com/airhick), [srcwr](https://github.com/srcwr)_
 
 - [BSPEntSpy](https://github.com/jakgor471/BSPEntSpy) - Enhanced Entity Lump editor for Source games.
 <br>`by jakgor471` `Java`
