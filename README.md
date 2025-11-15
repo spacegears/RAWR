@@ -171,6 +171,9 @@ _Additional resources: [airhick](https://github.com/airhick), [srcwr](https://gi
 - [Easy-VTF-Converter](https://github.com/Mix-Anik/Easy-VTF-Converter) - Software for converting VTF images into different versions.
 <br>`by Mix-Anik` `Python` `MIT`
 
+- [GodotVMF](https://github.com/H2xDev/GodotVMF) - A VMF/MDL/VTF/VMT importer for Godot Engine.
+<br>`by H2xDev` `GDScript` `MIT`
+
 - [HammerAddons](https://github.com/TeamSpen210/HammerAddons) - Useful tweaks and content for Source Engine Games.
 <br>`by TeamSpen210` `Python`
 
