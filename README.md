@@ -8,14 +8,17 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024.
 <br>`by troxler` `Markdown`
 
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects. ([Website](https://average.joe.dev/awesome-docker/))
+<br>`by veggiemonk` `Markdown`
+
 - [Awesome LAN Party Software](https://github.com/LANparties/awesome-lanparty-software) - An awesome list with awesome software for awesome LAN parties and their organizers.
 <br>`by LANparties` `Markdown`
 
-- [Awesome Multiplayer Games](https://github.com/herrherrmann/awesome-multiplayer-games) - Awesome games for local multiplayer sessions or LAN parties.
-<br>`by herrherrmann` `Markdown`
-
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux software. ([Website](https://luong-komorebi.github.io/Awesome-Linux-Software/))
 <br>`by luong-komorebi` `Markdown`
+
+- [Awesome Multiplayer Games](https://github.com/herrherrmann/awesome-multiplayer-games) - Awesome games for local multiplayer sessions or LAN parties.
+<br>`by herrherrmann` `Markdown`
 
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers. ([Website](https://awesome-selfhosted.net/))
 <br>`by awesome-selfhosted` `Markdown` `CC-BY-SA-3.0`
@@ -37,15 +40,6 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 
 - [Restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. ([Website](https://restic.net/))
 <br>`by restic` `Go` `BSD-2-Clause`
-
-
-## Docker
-
-- [Portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. ([Website](https://portainer.io/))
-<br>`by portainer` `TypeScript` `Go` `Zlib`
-
-- [Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. ([Website](https://yacht.sh/))
-<br>`by SelfhostedPro` `Vue` `JavaScript` `MIT`
 
 
 ## Gaming
@@ -98,6 +92,9 @@ _Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](h
 
 _Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers), [rehlds](https://github.com/rehlds)_
 
+- [docker-gameserver](hhttps://github.com/GameServerManagers/docker-gameserver) - Dockerised Game Servers using LinuxGSM
+<br>`by GameServerManagers` `Shell` `MIT`
+
 - [docker-sourceservers](https://github.com/startersclan/docker-sourceservers) - Source / GoldSource dedicated server images built through use of steamcmd.
 <br>`by startersclan` `PowerShell` `Shell` `Docker` `Apache-2.0`
 
@@ -129,6 +126,9 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 
 - [gb-api-v11](https://github.com/s0nought/gb-api-v11) - The semi-official GameBanana API v11 documentation.
 <br>`by s0nought` `Postman` `CC0-1.0`
+
+- [gb-dl](https://github.com/thefakeryker/gb-dl) - GameBanana Downloader Script for Python.
+<br>`by thefakeryker` `Python` `GPL-3.0`
 
 - [hl](https://github.com/Pixelsuft/hl) - Half-Life Browser Port. ([Website](https://pixelsuft.github.io/hl/))
 <br>`by Pixelsuft` `JavaScript` `Python`
@@ -241,26 +241,6 @@ _Additional resources: [airhick](https://github.com/airhick), [srcwr](https://gi
 <br>`by ThirteenAG` `C` `C++` `MIT`
 
 
-https://github.com/Olsro/reddit-ipod-guides
-
-### Server Management :penguin:
-
-- [Cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. ([Website](http://cockpit-project.org/))
-<br>`by cockpit-project` `C` `JavaScript` `Python` `GPL-2.0`
-
-- [dehydrated](https://github.com/dehydrated-io/dehydrated) - Letsencrypt/acme client implemented as a shell-script. ([Website](https://dehydrated.io/))
-<br>`by dehydrated-io` `Shell` `MIT`
-
-- [nala](https://github.com/volitank/nala) - Nala is a front-end for libapt-pkg.
-<br>`by volitank` `Python` `GPL-3.0`
-
-- [NginxProxyManager](nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface. ([Website](https://nginxproxymanager.com/))
-<br>`by NginxProxyManager` `JavaScript` `MIT`
-
-- [server-setup](https://github.com/xarvex/server-setup) - Setup scripts for configuring settings and programs on a server.
-<br>`by xarvex` `Shell` `BSL-1.0`
-
-
 ### Wreckfest
 
 - [Breckfest](https://github.com/MaxxWyndham/Breckfest) - A drag'n'drop image converter for Wreckfest.
@@ -282,9 +262,6 @@ https://github.com/Olsro/reddit-ipod-guides
 
 - [LinuxDir2HTML](https://github.com/homeisfar/LinuxDir2HTML) - LinuxDir2HTML is a small program to help create an offline manifest of your files in an easily navigable HTML format.
 <br>`by homeisfar` `HTML` `Python` `GPL-2.0 + GPL-3.0`
-
-- [rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. ([Website](https://rustdesk.com/))
-<br>`by rustdesk` `Rust` `AGPL-3.0`
 
 
 ### Torrent Trackers
