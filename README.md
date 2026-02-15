@@ -5,11 +5,17 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 
 ## Awesome Lists
 
+- [Awesome Age of Empires II Resources](https://github.com/Arkanosis/awesome-aoe2) - Curated list of awesome Age of Empires II resources.
+<br>`by Arkanosis` `Markdown` `CC0-1.0`
+
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024.
 <br>`by troxler` `Markdown`
 
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects. ([Website](https://average.joe.dev/awesome-docker/))
 <br>`by veggiemonk` `Markdown`
+
+- [🎮 Awesome Game File Format Reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing) - Collection of docs/tools/resources for reverse engineering and working with video game file formats.
+<br>`by VelocityRa` `Markdown` `CC0-1.0`
 
 - [Awesome LAN Party Software](https://github.com/LANparties/awesome-lanparty-software) - An awesome list with awesome software for awesome LAN parties and their organizers.
 <br>`by LANparties` `Markdown`
@@ -22,6 +28,9 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers. ([Website](https://awesome-selfhosted.net/))
 <br>`by awesome-selfhosted` `Markdown` `CC-BY-SA-3.0`
+
+- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
+<br>`by awesome-foss` `Markdown`
 
 - [Classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots.
 <br>`by dbohdan` `Markdown`
@@ -84,9 +93,6 @@ _Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](h
 - [Pterodactyl Panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. ([Website](https://pterodactyl.io/))
 <br>`by pterodactyl` `PHP` `TypeScript` `Docker` `MIT`
 
-- [WindowsGSM Panel](https://github.com/WindowsGSM/WindowsGSM) - A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button. ([Website](https://windowsgsm.com/products/windowsgsm-desktop/))
-<br>`by WindowsGSM` `C#` `MIT`
-
 
 ### Game Servers - Docker
 
@@ -109,6 +115,9 @@ _Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](ht
 
 - [steamcmd](https://github.com/thetredev/steamcmd) - Sane SteamCMD Docker images.
 <br>`by thetredev` `Shell` `Docker` `MIT`
+
+- [steamcmd-docker](https://github.com/steamcmd/docker) - Docker image containing SteamCMD.
+<br>`by steamcmd` `Docker` `MIT`
 
 
 ### Source - Mods
