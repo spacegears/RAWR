@@ -255,8 +255,14 @@ _Additional resources: [airhick](https://github.com/airhick), [srcwr](https://gi
 - [Breckfest](https://github.com/MaxxWyndham/Breckfest) - A drag'n'drop image converter for Wreckfest.
 <br>`by MaxxWyndham` `C#`
 
-- [wreckfest-server](https://github.com/TheLysdexicOne/wreckfest-server) - Wreckfest Server.
+- [docker-wreckfest](https://github.com/freekode/docker-wreckfest) - Wreckfest dedicated server.
+<br>`by freekode` `Shell` `Docker`
+
+- [wreckfest-server](https://github.com/TheLysdexicOne/wreckfest-server) - Wreckfest server.
 <br>`by TheLysdexicOne` `Python`
+
+- [Wreckfest2-Docker-Dedicated-Server](https://github.com/ripsnortntear/Wreckfest2-Docker-Dedicated-Server) - Run a headless Wreckfest 2 dedicated server on Linux with Docker and Wine.
+<br>`by ripsnortntear` `Docker`
 
 
 ## Other
