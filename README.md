@@ -14,7 +14,7 @@ It's mainly a list for myself, but maybe others will find it useful, too.
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects. ([Website](https://average.joe.dev/awesome-docker/))
 <br>`by veggiemonk` `Markdown`
 
-- [🎮 Awesome Game File Format Reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing) - Collection of docs/tools/resources for reverse engineering and working with video game file formats.
+- [Awesome Game File Format Reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing) - Collection of docs/tools/resources for reverse engineering and working with video game file formats.
 <br>`by VelocityRa` `Markdown` `CC0-1.0`
 
 - [Awesome LAN Party Software](https://github.com/LANparties/awesome-lanparty-software) - An awesome list with awesome software for awesome LAN parties and their organizers.
