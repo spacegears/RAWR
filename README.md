@@ -98,7 +98,7 @@ _Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](h
 
 _Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers), [rehlds](https://github.com/rehlds)_
 
-- [docker-gameserver](hhttps://github.com/GameServerManagers/docker-gameserver) - Dockerised Game Servers using LinuxGSM
+- [docker-gameserver](https://github.com/GameServerManagers/docker-gameserver) - Dockerised Game Servers using LinuxGSM.
 <br>`by GameServerManagers` `Shell` `MIT`
 
 - [docker-sourceservers](https://github.com/startersclan/docker-sourceservers) - Source / GoldSource dedicated server images built through use of steamcmd.
