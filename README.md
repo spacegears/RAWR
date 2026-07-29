@@ -96,7 +96,7 @@ _Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](h
 
 ### Game Servers - Docker
 
-_Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers), [rehlds](https://github.com/rehlds)_
+_Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers), [rehlds](https://github.com/rehlds), [rehldsupdatetool](https://github.com/anzz1/rehldsupdatetool), [hlmaster](https://github.com/anzz1/hlmaster)_
 
 - [docker-gameserver](https://github.com/GameServerManagers/docker-gameserver) - Dockerised Game Servers using LinuxGSM.
 <br>`by GameServerManagers` `Shell` `MIT`
