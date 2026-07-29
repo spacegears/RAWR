@@ -96,9 +96,9 @@ _Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](h
 
 ### Game Servers - Docker
 
-_Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers), [rehlds](https://github.com/rehlds), [rehldsupdatetool](https://github.com/anzz1/rehldsupdatetool), [hlmaster](https://github.com/anzz1/hlmaster)_
+_Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers), [rehlds](https://github.com/rehlds), [rehldsupdatetool](https://github.com/anzz1/rehldsupdatetool), [hlmaster](https://github.com/anzz1/hlmaster), [rehlmaster](https://github.com/anzz1/rehlmaster), [cs16-masterservers-restored](https://github.com/coffeegrind123/cs16-masterservers-restored)_
 
-- [docker-gameserver](https://github.com/GameServerManagers/docker-gameserver) - Dockerised Game Servers using LinuxGSM.
+- [docker-gameserver](https://github.com/GameServerManagers/docker-gameserver) - Dockerized Game Servers using LinuxGSM.
 <br>`by GameServerManagers` `Shell` `MIT`
 
 - [docker-sourceservers](https://github.com/startersclan/docker-sourceservers) - Source / GoldSource dedicated server images built through use of steamcmd.
