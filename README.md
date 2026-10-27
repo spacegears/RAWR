@@ -87,6 +87,9 @@ _Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](h
 - [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. ([Website](https://linuxgsm.com/))
 <br>`by GameServerManagers` `Shell` `MIT`
 
+- [LinuxGSM-Dashboard](https://github.com/yourdawi/linuxgsm-dashboard) - A lightweight web dashboard for LinuxGSM game server management.
+<br>`by yourdawi` `Go` `Docker` `MIT`
+
 - [PufferPanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use. ([Website](https://pufferpanel.com/))
 <br>`by pufferpanel` `Go` `Docker` `Apache-2.0`
 
@@ -154,8 +157,14 @@ _Additional resources: [JaredBallou](https://github.com/jaredballou), [pySourceS
 - [SourceWatch](https://github.com/spezifanta/SourceWatch) - Python implementation of Valve's GoldSrc and Source server query protocol.
 <br>`by spezifanta` `Python` `MIT`
 
+- [Universal-Srcds-Launcher](https://github.com/LambdaGaming/Universal-Srcds-Launcher) - Replacement launcher compatible with any GoldSrc, Source, or Source 2 dedicated server, for Windows and Linux.
+<br>`by LambdaGaming` `C#` `MIT`
+
 - [workshop_collection_ids](https://github.com/SivanC/workshop_collection_ids) - A small Python script that uses the Steam Web API to retrieve the IDs of workshop items in a collection and prints them in a comma-separated or formatted list to stdout, or optionally a file.
 <br>`by SivanC` `Python` `GPL-3.0`
+
+
+
 
 
 ### Mapping / Modding /  Modeling / Texturing / Tools / Hammer Editor
