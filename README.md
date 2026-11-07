@@ -82,24 +82,15 @@ _Additional resources: [kongfooman](https://github.com/kungfooman), [patriksh](h
 <br>`by henrikssonkevin`
 
 
-### Game Servers - Control Panels
+### Game Servers - Docker
+
+_Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers), [rehlds](https://github.com/rehlds), [rehldsupdatetool](https://github.com/anzz1/rehldsupdatetool), [hlmaster](https://github.com/anzz1/hlmaster), [rehlmaster](https://github.com/anzz1/rehlmaster), [cs16-masterservers-restored](https://github.com/coffeegrind123/cs16-masterservers-restored)_
 
 - [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. ([Website](https://linuxgsm.com/))
 <br>`by GameServerManagers` `Shell` `MIT`
 
 - [LinuxGSM-Dashboard](https://github.com/yourdawi/linuxgsm-dashboard) - A lightweight web dashboard for LinuxGSM game server management.
 <br>`by yourdawi` `Go` `Docker` `MIT`
-
-- [PufferPanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use. ([Website](https://pufferpanel.com/))
-<br>`by pufferpanel` `Go` `Docker` `Apache-2.0`
-
-- [Pterodactyl Panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. ([Website](https://pterodactyl.io/))
-<br>`by pterodactyl` `PHP` `TypeScript` `Docker` `MIT`
-
-
-### Game Servers - Docker
-
-_Additional resources: [hlds-run](https://github.com/hlds-run), [LacledesLAN](https://github.com/LacledesLAN/README.1ST/tree/master/GameServers), [rehlds](https://github.com/rehlds), [rehldsupdatetool](https://github.com/anzz1/rehldsupdatetool), [hlmaster](https://github.com/anzz1/hlmaster), [rehlmaster](https://github.com/anzz1/rehlmaster), [cs16-masterservers-restored](https://github.com/coffeegrind123/cs16-masterservers-restored)_
 
 - [docker-gameserver](https://github.com/GameServerManagers/docker-gameserver) - Dockerized Game Servers using LinuxGSM.
 <br>`by GameServerManagers` `Shell` `MIT`
